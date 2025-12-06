@@ -1,0 +1,4 @@
+ENCARNACION = {latitud: -27.337611, longitud: -55.866949}
+VILLARRICA = {latitud: -25.780984, longitud: -56.447876}
+CAACUPE = {latitud: -25.385689, longitud: -57.140477}
+ASUNCION = {latitud: -25.280046, longitud: -57.634381}
